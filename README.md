@@ -1,6 +1,7 @@
 # Cleaning-Data-Course-Project
 
 This repository contains:
+
 README.md (this file, to provide an overview of the contained data set)
 
 CleanData.txt (.txt file containing a cleaned up version of the provided data)
